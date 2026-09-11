@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+:root { font-family: Poppins, system-ui, sans-serif; color: #f6f4fb; background: #08050f; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button { font: inherit; border: 0; cursor: pointer; }
+button:disabled { cursor: not-allowed; }
+#root { min-height: 100vh; }
